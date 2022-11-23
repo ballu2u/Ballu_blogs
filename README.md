@@ -1,6 +1,8 @@
 # Ballu_blogs
 **AWS Blog and publications**
 
+Improve the Availability of Existing Okta IAM Federation Setup Using Multi-Region SAML Endpoints (https://aws.amazon.com/blogs/apn/improve-the-availability-of-existing-okta-iam-federation-setup-using-multi-region-saml-endpoints/)
+
 Automatically archive and restore data with Amazon S3 Intelligent-Tiering (https://aws.amazon.com/blogs/storage/automatically-archive-and-restore-data-with-amazon-s3-intelligent-tiering/)
 
 [Automate the Creation of On-Demand Capacity Reservations for running EC2 instances](https://aws.amazon.com/blogs/compute/automate-the-creation-of-on-demand-capacity-reservations-for-running-ec2-instances/)
