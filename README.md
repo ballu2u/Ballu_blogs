@@ -1,5 +1,6 @@
-# Ballu_blogs
-**AWS Blog and publications**
+# Ballu's Blogs/Workshops/YouTube-recordings
+
+**AWS Blogs, Workshops and YouTube Recordings**
 
 [Ensure Cross Account Private Connectivity via VPC Endpoints for Amazon Bedrock](https://catalog.us-east-1.prod.workshops.aws/workshops/e1cdec89-5752-4222-863c-ccfafb191533/en-US)
 
