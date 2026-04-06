@@ -10,7 +10,7 @@
 
 • **Drove approval for two additional services** (1 in development, 1 planned)
 
-• ** Identify AWS under-billing for Network Load Balancer (NLB) Data Transfer Availability Zone (DTAZ),representing $232.8M annual unrecognized revenue, unbilled since 2018**
+• **Identify AWS under-billing for Network Load Balancer (NLB) Data Transfer Availability Zone (DTAZ),representing $232.8M annual unrecognized revenue, unbilled since 2018**
 
 [Applying Amazon S3 Object Lock at scale for petabytes of existing data](https://aws.amazon.com/blogs/storage/applying-amazon-s3-object-lock-at-scale-for-petabytes-of-existing-data/)
 
