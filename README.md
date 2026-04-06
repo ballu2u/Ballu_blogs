@@ -1,6 +1,21 @@
 # Ballu's Blogs/Workshops/YouTube-recordings
 
 **AWS Blogs, Workshops and YouTube Recordings**
+[Applying Amazon S3 Object Lock at scale for petabytes of existing data](https://aws.amazon.com/blogs/storage/applying-amazon-s3-object-lock-at-scale-for-petabytes-of-existing-data/)
+
+[Developed and presented at Re:Invent 2025 - Scaling AI Operations and Costs: Mastering Application Inference Profiles Across Teams/Tenants](https://catalog.us-east-1.prod.workshops.aws/workshops/59f16109-2e4a-424e-8f51-dfda4ecdb83e/en-US)
+
+[Automating Notifications for Future-Dated Amazon EC2 Capacity Reservation State Changes](https://aws.amazon.com/blogs/compute/automating-notifications-for-future-dated-amazon-ec2-capacity-reservation-state-changes/)
+
+[Efficiently manage Amazon EC2 On-Demand Capacity Reservations (ODCRs) with split, move, and modify](https://aws.amazon.com/blogs/compute/efficiently-manage-amazon-ec2-on-demand-capacity-reservations-odcrs-with-split-move-and-modify/)
+
+[Developed Seamless shopping: AI agents, AWS, and Stripe, but presented by the AWS partner team at Stripe Sessions 2025](https://stripe.com/sessions/2025/seamless-shopping-ai-agents-aws-and-stripe)
+
+[Advanced AWS On-Demand Capacity Reservation Features: Split, Move & Modify Operations](https://catalog.us-east-1.prod.workshops.aws/workshops/6c65678a-512e-4c4d-8d33-4b1fcee49b14/en-US)
+
+[Monitor On-Demand Capacity Reservations (ODCRs) using Amazon CloudWatch](https://catalog.us-east-1.prod.workshops.aws/workshops/304c022c-88af-4260-8195-721e48c7a6c3/en-US)
+
+[Cross-Region Inferencing in Amazon Bedrock using private connectivity via VPC endpoints](https://catalog.us-east-1.prod.workshops.aws/workshops/625b47a9-e6f5-4164-848a-9722eafac355/en-US)
 
 [Ensure Cross Account Private Connectivity via VPC Endpoints for Amazon Bedrock](https://catalog.us-east-1.prod.workshops.aws/workshops/e1cdec89-5752-4222-863c-ccfafb191533/en-US)
 
